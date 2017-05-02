@@ -1,0 +1,204 @@
+set cbrange[0:1]
+set palette defined (0 'black', 1 'white')
+plot "./output/timeStep0_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep2900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep3900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep4900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep5900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep6900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep7900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep8900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9000_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9100_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9200_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9300_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9400_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9500_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9600_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9700_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9800_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep9900_n2.dat" matrix with image
+pause 0.05
+plot "./output/timeStep10000_n2.dat" matrix with image
+pause 0.05

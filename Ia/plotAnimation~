@@ -1,0 +1,24 @@
+set cbrange[10:30]
+set palette defined (10 'black', 20 'white')
+plot "./output/timeStep0.dat" matrix with image
+pause 0.05
+plot "./output/timeStep100.dat" matrix with image
+pause 0.05
+plot "./output/timeStep200.dat" matrix with image
+pause 0.05
+plot "./output/timeStep300.dat" matrix with image
+pause 0.05
+plot "./output/timeStep400.dat" matrix with image
+pause 0.05
+plot "./output/timeStep500.dat" matrix with image
+pause 0.05
+plot "./output/timeStep600.dat" matrix with image
+pause 0.05
+plot "./output/timeStep700.dat" matrix with image
+pause 0.05
+plot "./output/timeStep800.dat" matrix with image
+pause 0.05
+plot "./output/timeStep900.dat" matrix with image
+pause 0.05
+plot "./output/timeStep1000.dat" matrix with image
+pause 0.05

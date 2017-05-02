@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#SBATCH --time=10:00:00
+#SBATCH --mem=48G
+
+#SBATCH -J GB_spinodal_Ib
+#SBATCH -o GB_spinodal_Ib.out
+#SBATCH -e GB_spinodal_Ib.out
+
+mkdir output
+./spinodal_gb
